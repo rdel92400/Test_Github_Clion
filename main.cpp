@@ -21,6 +21,4 @@ int main() {
     Velo.deplacement();
     return 0;
 
-
-    //Charles
 }
